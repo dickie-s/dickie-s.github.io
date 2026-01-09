@@ -1,11 +1,12 @@
 # dickie-s.gitihub.io
 ## Introduction
-This is Geospatial Data Acquisition & Geo-Visualization Website <img width="1373" height="140" alt="image" src="https://github.com/user-attachments/assets/28f0bad3-76af-4372-a9e3-a8807ee18d71" />
+
+<img width="1373" height="140" alt="image" src="https://github.com/user-attachments/assets/28f0bad3-76af-4372-a9e3-a8807ee18d71" />
 
 
 My name is Dickson A. Kavishe. Hello! How are you? Welcome to my fancy website!
 
-The site is designed for sharing Data and Material regarding Geospatial Data Acquisition & Geo-Visualization<img width="1373" height="140" alt="image" src="https://github.com/user-attachments/assets/1f57874c-ff52-4ed0-beaa-1caf5e1e1f4f" />
+The site is designed for sharing Data and Material regarding Geospatial Data Acquisition & Geo-Visualization
 
 
 ## Demos
